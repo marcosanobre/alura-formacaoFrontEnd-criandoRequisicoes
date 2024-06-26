@@ -71,18 +71,25 @@
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": "Se prepare para entrevistas de vagas de Cientista de Dados | Hipsters: Entrevista de Emprego Tech",
+      "descricao": "3,1 mil visualizações  há 4 meses",
+      "url": "https://www.youtube.com/embed/DXmI0RaNn5I",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": "Tutorial Google AI Studio: como usar o Gemini? | IAs Generativas",
+      "descricao": "6,1 mil visualizações  há 6 dias",
+      "url": "https://www.youtube.com/embed/UelauoeMaGw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Trabalho vs Vida Pessoal: Programadores ao Redor do Mundo | Hipsters: Carreira no Exterior",
+      "descricao": "144 visualizações há 4 horas",
+      "url": "https://www.youtube.com/embed/yRrJG5Cptsg",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
     }
   ]
 }
