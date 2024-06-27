@@ -15,6 +15,22 @@ async function criarVideo( evento ) {
     window.location.href = "../pages/envio-concluido.html";
 };
 
-formulario.addEventListener( "Submit", evento => criarVideo( evento ) );
+formulario.addEventListener( "submit", evento => criarVideo( evento ) );
 
+/* 
+document.querySelector("[data-formulario]").addEventListener( "Submit", async function( event ) {
+    event.preventDefault();
+
+    const titulo = document.querySelector('#titulo').value;
+    const descricao = document.querySelector('#descricao').value;
+    const url = document.querySelector('#url').value;
+    const imagem = document.querySelector('#imagem').value;
+
+    await conectaApi.criaVideo(titulo, descricao, url, imagem);
+
+    window.location.href = "/";
+
+    }
+);
+*/
 

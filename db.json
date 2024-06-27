@@ -1,56 +1,56 @@
 {
   "videos": [
     {
-      "id": 1,
+      "id": "1",
       "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
       "descricao": "3 mil visualizações",
       "url": "https://www.youtube.com/embed/y8FeZMv37WU",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 2,
+      "id": "2",
       "titulo": "Desmistificando mobile - Linguagens e Frameworks",
       "descricao": "1,5 mil visualizações",
       "url": "https://www.youtube.com/embed/fmu1LQvZhms",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 3,
+      "id": "3",
       "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
       "descricao": "30 mil visualizações",
       "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 4,
+      "id": "4",
       "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
       "descricao": "2,5 mil visualizações",
       "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 5,
+      "id": "5",
       "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
       "descricao": "1,2 mil visualizações",
       "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 6,
+      "id": "6",
       "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
       "descricao": "1,6 mil visualizações",
       "url": "https://www.youtube.com/embed/vf9P_PycgRw",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 7,
+      "id": "7",
       "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
       "descricao": "3,2 mil visualizações",
       "url": "https://www.youtube.com/embed/Nts3P35mHzE",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 8,
+      "id": "8",
       "titulo": "baNaNa | Memes do JavaScript #2",
       "descricao": "1,2 mil visualizações",
       "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
@@ -61,35 +61,63 @@
       "descricao": "1 mil visualizações",
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 9
+      "id": "9"
     },
     {
       "titulo": "Educação coorporativa",
       "descricao": "9 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 10
+      "id": "10"
     },
     {
       "titulo": "Se prepare para entrevistas de vagas de Cientista de Dados | Hipsters: Entrevista de Emprego Tech",
       "descricao": "3,1 mil visualizações  há 4 meses",
       "url": "https://www.youtube.com/embed/DXmI0RaNn5I",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 11
+      "id": "11"
     },
     {
       "titulo": "Tutorial Google AI Studio: como usar o Gemini? | IAs Generativas",
       "descricao": "6,1 mil visualizações  há 6 dias",
       "url": "https://www.youtube.com/embed/UelauoeMaGw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 12
+      "id": "12"
     },
     {
       "titulo": "Trabalho vs Vida Pessoal: Programadores ao Redor do Mundo | Hipsters: Carreira no Exterior",
       "descricao": "144 visualizações há 4 horas",
       "url": "https://www.youtube.com/embed/yRrJG5Cptsg",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 13
+      "id": "13"
+    },
+    {
+      "id": "12e3",
+      "titulo": "Curso Lógica de Programação Completo 2024 [Iniciantes] + Desafios + Muita prática",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/iF2MdbrTiBM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": "a72e",
+      "titulo": "Como criar um projeto para um portfólio de Analista de Dados? | Hipsters: Portfólio Dev",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/ZpjN52D6UYE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": "4537",
+      "titulo": "Guia de Carreira: Android | #HipstersPontoTube",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/Jt6cRnki-IE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": "b3e7",
+      "titulo": "Pare de Perder Tempo com as Linguagens de Programação ERRADAS",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/hg8pPA9ulU4",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
     }
   ]
 }
