@@ -25,8 +25,8 @@ async function criaVideo(titulo,descricao,url,imagem) {
 };
 
 async function buscaVideo( termoDeBusca ) {
-    const fetchURI = `http://localhost:3000/videos?q="${termoDeBusca}"`;
-console.log(fetchURI);
+    const fetchURI = `http://localhost:3000/videos?q=${termoDeBusca}`;
+//console.log(fetchURI);
     const conexao = await fetch( fetchURI );
     const conexaoJSON = await conexao.json();
     return conexaoJSON;
