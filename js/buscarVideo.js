@@ -12,18 +12,19 @@ async function buscarVideo( evento ) {
         lista.removeChild( lista.firstChild );
     };
 
-    busca.forEach( elemento => 
-        lista.appendChild( constroiCard( elemento.titulo,
-                                         elemento.descricao,
-                                         elemento.url,
-                                         elemento.imagem
-                                        )
-                         )
-                 );    
+    if (busca.length == 0) {
+        lista.innerHTML = `<h2 class="mensagem__titulo__erro">Não existem vídeos, para este termo de Pesquisa.</h2>`;
+    } else {
+        busca.forEach( elemento => 
+            lista.appendChild( constroiCard( elemento.titulo,
+                                             elemento.descricao,
+                                             elemento.url,
+                                             elemento.imagem
+                                            )
+                             )
+                     );    
 
-//    if (busca.length == 0) {
-//        lista.innerHTML = `<h2 class="mensagem__titulo__erro">Não existem vídeos, para este termo de Pesquisa.</h2>`;
-//    };
+    };
 };
 
 const botaoDePesquisa = document.querySelector("[data-botao-pesquisa]");
